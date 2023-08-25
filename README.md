@@ -13,7 +13,7 @@ Welcome to the Tic-Tac-Toe game repository! This is a simple implementation of t
 
 1. Clone this repository to your local machine using:
 
-git clone https://github.com/Deepaktumula/tictactoe-game.git
+  git clone https://github.com/Deepaktumula/tictactoe-game.git
 
 
 2. Open the `index.html` file in a web browser to start the game.
